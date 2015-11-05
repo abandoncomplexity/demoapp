@@ -1,0 +1,9 @@
+*.zip
+*.log
+*node_modules
+obj
+bin
+jshint-checkstyle.xml
+dist
+.gitrevision
+.orig
